@@ -16,14 +16,12 @@
 * Ryuichi Okumura [@okuryu](http://twitter.com/okuryu), [github](https://github.com/okuryu)
 * EngForDev [engfordev](http://www.opentutorials.org/course/167/1363) - Hwan Min Hong / MinTaek Kwon [@leoinsight](http://twitter.com/leoinsight) / Tw Shim [@marocchino](http://twitter.com/marocchino), [github](https://github.com/marocchino) / Nassol Kim [@nassol99](http://twitter.com/nassol99), [github](https://github.com/nassol) / Juntai Park [@rkJun](http://twitter.com/rkJun), [github](https://github.com/rkJun) / Minkyu Shim / Gangmin Won / Justin Yoo [@justinchronicle](http://twitter.com/justinchronicle) / Daeyup Lee
 
-## All code in anyيبيب code-base should look like a single person typed it, no matter how many people contributed.
+## اي كود مهما كان عدد كٌتابها عليه ان يبدو كما لو أن شخصا واحدا قام بكتابته
 
-### The following list outlines the practices that I use in all code that I am the original author of; contributions to projects that I have created should follow these guidelines.
+###القائمة الأتية أسرد فيها النهج الذي اتبعه عند كتابتي للأكواد في المشاريع التي تخصني؛ المساهمات في تلك المشاريع عليها ايضا ان تتبع ذات النهج
+### لا أعتزم ان افرض طريقتي على أكواد الخاصة بالاخرين؛ اذاكان لهم اسلوب معين فعلينا احترام ذلك
 
-### I do not intend to impose my style preferences on other people's code; if they have an existing common style - this should be respected.
-
-> "Part of being a good steward to a successful project is realizing that writing code for yourself is a Bad Idea™. If thousands of people are using your code, then write your code for maximum clarity, not your personal preference of how to get clever within the spec." - Idan Gazit
-
+>"احد جوانب إدارتك لمشروع بحرفية هو إدراك ان كتابة كود لنفسك فكرة ليست جيدة. إذا كان العديد من الناس يستخدمون كودك إذن قم بكتابته بأعلى درجة من الوضوح وليست كما تفضل شخصيا" إيدن غاريث
 
 ## Translations
 
