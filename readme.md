@@ -16,7 +16,7 @@
 * Ryuichi Okumura [@okuryu](http://twitter.com/okuryu), [github](https://github.com/okuryu)
 * EngForDev [engfordev](http://www.opentutorials.org/course/167/1363) - Hwan Min Hong / MinTaek Kwon [@leoinsight](http://twitter.com/leoinsight) / Tw Shim [@marocchino](http://twitter.com/marocchino), [github](https://github.com/marocchino) / Nassol Kim [@nassol99](http://twitter.com/nassol99), [github](https://github.com/nassol) / Juntai Park [@rkJun](http://twitter.com/rkJun), [github](https://github.com/rkJun) / Minkyu Shim / Gangmin Won / Justin Yoo [@justinchronicle](http://twitter.com/justinchronicle) / Daeyup Lee
 
-## اي كود مهما كان عدد كٌتابها عليه ان يبدو كما لو أن شخصا واحدا قام بكتابته
+## اي كود مهما كان عدد كٌتابه عليه ان يبدو كما لو أن شخصا واحدا قام بكتابته
 
 ###القائمة الأتية أسرد فيها النهج الذي اتبعه عند كتابتي للأكواد في المشاريع التي تخصني؛ المساهمات في تلك المشاريع عليها ايضا ان تتبع ذات النهج
 ### لا أعتزم ان افرض طريقتي على أكواد الخاصة بالاخرين؛ اذاكان لهم اسلوب معين فعلينا احترام ذلك
