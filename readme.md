@@ -25,11 +25,11 @@
 
 ## Translations
 
-* [French](https://github.com/rwldrn/idiomatic.js/tree/master/translations/fr_FR)
-* [Spanish](https://github.com/rwldrn/idiomatic.js/tree/master/translations/es_ES)
-* [Portuguese - Brazil](https://github.com/rwldrn/idiomatic.js/tree/master/translations/pt_BR)
-* [Korean](https://github.com/rwldrn/idiomatic.js/tree/master/translations/ko_KR)
-* [Japanese](https://github.com/rwldrn/idiomatic.js/tree/master/translations/ja_JP)
+* [الفرنسية](https://github.com/rwldrn/idiomatic.js/tree/master/translations/fr_FR)
+* [الاسبانية](https://github.com/rwldrn/idiomatic.js/tree/master/translations/es_ES)
+* [البرتغالية - البرازيل](https://github.com/rwldrn/idiomatic.js/tree/master/translations/pt_BR)
+* [الكورية](https://github.com/rwldrn/idiomatic.js/tree/master/translations/ko_KR)
+* [اليابانية](https://github.com/rwldrn/idiomatic.js/tree/master/translations/ja_JP)
 
 ## Important, Non-Idiomatic Stuff:
 
