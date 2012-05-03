@@ -1,6 +1,7 @@
-# Principles of Writing Consistent, Idiomatic JavaScript
+# مبادئ كتابة أكواد جافا سكربت متناسقة ومتداولة
 
-## This is a living document and new ideas for improving the code around us are always welcome. Contribute: fork, clone, branch, commit, push, pull request.
+##  هذا ملف متجدد وأي أفكار جديدة تساعد على تحسين الأكواد التي نكتبها مرحب بها دائما لذا قم بالمشاركة عبر   fork, clone, branch, commit, push, pull request 
+
 
 * Rick Waldron [@rwaldron](http://twitter.com/rwaldron), [github](https://github.com/rwldrn)
 * Mathias Bynens [@mathias](http://twitter.com/mathias), [github](https://github.com/mathiasbynens)
